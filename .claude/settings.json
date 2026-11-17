@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/Users/henokgetachew/WebstormProjects/Internova/GTCOne"
+    ],
+    "allow": [
+      "Read(//Users/henokgetachew/WebstormProjects/Internova/GTCOne/**)",
+      "WebSearch",
+      "WebFetch(domain:learn.microsoft.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:docs.astral.sh)",
+      "WebFetch(domain:modelcontextprotocol.io)",
+      "WebFetch(domain:genai.owasp.org)",
+      "mcp__anki__list_decks",
+      "mcp__anki__create_deck"
+    ],
+    "deny": [
+      "Edit(//Users/henokgetachew/WebstormProjects/Internova/GTCOne/**)",
+      "Write(//Users/henokgetachew/WebstormProjects/Internova/GTCOne/**)"
+    ]
+  }
+}

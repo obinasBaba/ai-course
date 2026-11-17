@@ -1,0 +1,6 @@
+# labs/ is its own public git repo
+labs/
+# local clone of third-party reference material
+references/
+.DS_Store
+.claude/settings.local.json
